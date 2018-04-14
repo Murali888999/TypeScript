@@ -1,0 +1,10 @@
+let p1 : number = 12;
+let p2 : string = "abc";
+let p3 : boolean = false;
+let p4 : any = 4.5;
+p4=true;
+p4=2.4;
+p4=645;
+p4="Murali";
+console.log(p4);
+console.log("done");

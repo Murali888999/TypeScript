@@ -1,0 +1,16 @@
+let v1 = 'abc';
+let v2 = "hello";
+let v3 : string;
+v3 ="xyz";
+let v4;
+v4 = "test";
+console.log(v1);
+console.log(v2);
+console.log(v3);
+console.log(v4);
+//v1 = 20;
+//v2 = true;
+//v3 = 22;
+v4 = 34;
+v4 = true;
+console.log("end");

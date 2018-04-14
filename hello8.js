@@ -1,0 +1,10 @@
+var p1 = 12;
+var p2 = "abc";
+var p3 = false;
+var p4 = 4.5;
+p4 = true;
+p4 = 2.4;
+p4 = 645;
+p4 = "Murali";
+console.log(p4);
+console.log("done");
